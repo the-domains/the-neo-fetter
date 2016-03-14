@@ -1,0 +1,28 @@
+name: The Neo Fetter
+favicon: null
+layout_spectrum: 0.6364553463645279
+typography_spectrum: 0.17073206789791584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4476483194157481
+  lightness: 0.12408801331184804
+  saturation: 0.3662009737454355
+  rhythmicContrast: 0.5422354508191347
+purpose: []
